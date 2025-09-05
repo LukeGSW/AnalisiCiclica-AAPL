@@ -1,18 +1,18 @@
 {
-  "timestamp": "2025-09-04T21:36:33.967500",
+  "timestamp": "2025-09-05T21:36:59.173267",
   "ticker": "AAPL",
-  "data_points": 2488,
+  "data_points": 2489,
   "latest_signal": {
-    "date": "2025-09-04",
+    "date": "2025-09-05",
     "signal": "HOLD",
     "position": "FLAT",
     "phase_quadrant": "Quadrante 3 (Picco -> Discesa)",
-    "phase_value": 0.9409327661177727,
-    "oscillator_value": 11.140164999999968,
-    "signal_strength": 67.9937788956897,
-    "confidence": "MEDIUM",
-    "price": 239.78,
-    "timestamp": "2025-09-04T21:36:32.741651"
+    "phase_value": 0.920069466507801,
+    "oscillator_value": 11.931145000000015,
+    "signal_strength": 71.0311681470206,
+    "confidence": "HIGH",
+    "price": 239.69,
+    "timestamp": "2025-09-05T21:36:57.960402"
   },
   "backtest_metrics": {
     "total_return_%": 85.23715258396895,
