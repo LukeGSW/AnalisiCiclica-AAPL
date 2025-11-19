@@ -1,28 +1,28 @@
 {
-  "timestamp": "2025-11-17T21:39:37.209869",
+  "timestamp": "2025-11-19T21:37:02.467813",
   "ticker": "AAPL",
-  "data_points": 2540,
+  "data_points": 2542,
   "latest_signal": {
-    "date": "2025-11-17",
+    "date": "2025-11-19",
     "signal": "HOLD",
     "position": "FLAT",
     "phase_quadrant": "Quadrante 3 (Picco -> Discesa)",
-    "phase_value": 1.1125883401102656,
-    "oscillator_value": 9.735500000000002,
-    "signal_strength": 78.46235726150117,
+    "phase_value": 1.1435956606230673,
+    "oscillator_value": 8.586000000000013,
+    "signal_strength": 74.18149055059888,
     "confidence": "HIGH",
-    "price": 267.46,
-    "timestamp": "2025-11-17T21:39:36.131447"
+    "price": 268.56,
+    "timestamp": "2025-11-19T21:37:01.388507"
   },
   "backtest_metrics": {
-    "total_return_%": 105.79433020372022,
-    "max_drawdown_%": 0.93128552911485,
-    "sharpe_ratio": 1.4609506676931603,
-    "sortino_ratio": 7.2902452674859015,
-    "calmar_ratio": 27.1120463373438,
+    "total_return_%": 108.08007585132886,
+    "max_drawdown_%": 0.9164391959378564,
+    "sharpe_ratio": 1.4754672044323642,
+    "sortino_ratio": 7.653230168139356,
+    "calmar_ratio": 27.928905384972072,
     "total_trades": 13,
     "win_rate_%": 76.92307692307693,
-    "profit_factor": 49.250986704358624
+    "profit_factor": 50.26847057685482
   },
   "cycle_analysis": {
     "dominant_period": 126.0,
