@@ -1,25 +1,25 @@
 {
-  "timestamp": "2026-01-06T21:42:45.256260",
+  "timestamp": "2026-01-07T21:41:56.397793",
   "ticker": "AAPL",
-  "data_points": 2573,
+  "data_points": 2574,
   "latest_signal": {
-    "date": "2026-01-06",
+    "date": "2026-01-07",
     "signal": "HOLD",
     "position": "FLAT",
     "phase_quadrant": "Quadrante 4 (Discesa -> Minimo)",
-    "phase_value": 2.071447974127364,
-    "oscillator_value": -3.052500000000009,
-    "signal_strength": 22.327011038850983,
+    "phase_value": 2.269592906600045,
+    "oscillator_value": -3.9195000000000277,
+    "signal_strength": 20.934076287336083,
     "confidence": "LOW",
-    "price": 262.36,
-    "timestamp": "2026-01-06T21:42:44.121868"
+    "price": 260.33,
+    "timestamp": "2026-01-07T21:41:55.180572"
   },
   "backtest_metrics": {
     "total_return_%": 112.86549411762633,
     "max_drawdown_%": 0.9069171214129611,
-    "sharpe_ratio": 1.5070748761645847,
-    "sortino_ratio": 5.586593712931368,
-    "calmar_ratio": 28.71900560412498,
+    "sharpe_ratio": 1.5060922104889372,
+    "sortino_ratio": 5.5793665541824256,
+    "calmar_ratio": 28.681852944869966,
     "total_trades": 14,
     "win_rate_%": 85.71428571428571,
     "profit_factor": 74.45459726754004
